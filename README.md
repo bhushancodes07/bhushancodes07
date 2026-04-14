@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>I'm a creative developer who enjoys building things from scratch and turning ideas into reality through code.<br><br>- 💻 Tech Stack: Python | C | HTML  <br>- 🚀 Currently learning and exploring more technologies  <br>- 🎯 Goal: Start freelancing and work on real-world projects  <br>- 💡 I love solving problems in creative ways and experimenting with new ideas  <br>- 🌱 Always growing, always building  <br><br>Let's create something amazing! ✨
+I'm a creative developer who enjoys building things from scratch and turning ideas into reality through code.<br><br>- 💻 Tech Stack: Python | C | HTML  <br>- 🚀 Currently learning and exploring more technologies  <br>- 🎯 Goal: Start freelancing and work on real-world projects  <br>- 💡 I love solving problems in creative ways and experimenting with new ideas  <br>- 🌱 Always growing, always building  <br><br>Let's create something amazing! ✨
 
 
 ## 🌐 Socials:
