@@ -1,18 +1,59 @@
-# 💫 About Me:
-I'm a creative developer who enjoys building things from scratch and turning ideas into reality through code.<br><br>- 💻 Tech Stack: Python | C | HTML | JAVA  <br>- 🚀 Currently learning and exploring more technologies  <br>- 🎯 Goal: Start freelancing and work on real-world projects  <br>- 💡 I love solving problems in creative ways and experimenting with new ideas  <br>- 🌱 Always growing, always building  <br><br>Let's create something amazing! ✨
+# bhushancodes07
 
+> Memorable developer positioning.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhiiiiii_.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhushan-baviskar-4156163ba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhushanbaviskar663@gmail.com) 
+**Theme:** GitHub Â· **Style:** Creative Â· **Agent:** Full-Stack Engineer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bhushancodes07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=bhushancodes07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhushancodes07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Header
+> Editing this section in the inspector.
+Hi, I'm **bhushancodes07**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=bhushancodes07&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=bhushancodes07&theme=github-dark" alt="bhushancodes07 hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=bhushancodes07&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=bhushancodes07&theme=github-dark" alt="bhushancodes07 about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=bhushancodes07&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=bhushancodes07&theme=github-dark" alt="bhushancodes07 stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=bhushancodes07&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=bhushancodes07&theme=github-dark" alt="bhushancodes07 stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=bhushancodes07&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=bhushancodes07&theme=github-dark" alt="bhushancodes07 projects section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=bhushancodes07&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=bhushancodes07&theme=github-dark" alt="bhushancodes07 social section" />
+  </picture>
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=bhushancodes07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
