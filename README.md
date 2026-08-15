@@ -1,76 +1,18 @@
-<h1 align="center">Hi, I'm bhushancodes07 </h1>
+# 💫 About Me:
+I'm a creative developer who enjoys building things from scratch and turning ideas into reality through code.<br><br>- 💻 Tech Stack: Python | C | HTML | JAVA  <br>- 🚀 Currently learning and exploring more technologies  <br>- 🎯 Goal: Start freelancing and work on real-world projects  <br>- 💡 I love solving problems in creative ways and experimenting with new ideas  <br>- 🌱 Always growing, always building  <br><br>Let's create something amazing! ✨
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=bhushancodes07&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=bhushancodes07&theme=github-dark" alt="bhushancodes07 hero section" />
-  </picture>
-</p>
 
-## About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhiiiiii_.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhushan-baviskar-4156163ba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhushanbaviskar663@gmail.com) 
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=bhushancodes07&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=bhushancodes07&theme=github-dark" alt="bhushancodes07 about section" />
-  </picture>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bhushancodes07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=bhushancodes07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhushancodes07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Skills
+---
+[![](https://komarev.com/ghpvc/?username=bhushancodes07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=bhushancodes07&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=bhushancodes07&theme=github-dark" alt="bhushancodes07 stack section" />
-  </picture>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=bhushancodes07&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=bhushancodes07&theme=github-dark" alt="bhushancodes07 stats section" />
-  </picture>
-</p>
-
-## Projects
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=bhushancodes07&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=bhushancodes07&theme=github-dark" alt="bhushancodes07 projects section" />
-  </picture>
-</p>
-
-## Heatmap
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=bhushancodes07&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=bhushancodes07&theme=github-dark" alt="bhushancodes07 heatmap section" />
-  </picture>
-</p>
-
-## Connect
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=bhushancodes07&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=bhushancodes07&theme=github-dark" alt="bhushancodes07 social section" />
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhushan-baviskar-4156163ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bhushanbaviskar663@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/abhiiiiii_.exe" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect, Social Badges -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
